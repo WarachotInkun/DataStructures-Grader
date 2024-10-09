@@ -14,12 +14,6 @@ def bubble(lst1):
         if not swap or len(lst)-n-1  ==1:
             return lst
     return lst
-    
-
-
-
-
-
 
 l = [e for e in input("Enter Input : ").split()]
 if l[0] == 'EX':
